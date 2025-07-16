@@ -1,0 +1,1 @@
+dotnet build TOHE.csproj -c Release
