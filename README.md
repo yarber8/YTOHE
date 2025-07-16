@@ -9,7 +9,7 @@
 <br>
 
 **Credit to these mods and their developers for the code:**>
-### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
+### :star: [TOHE](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
 > 
 > - Town of Host: Re-Edited was forked from Town of Host: Edited. (TONX)
 > 
