@@ -8,6 +8,6 @@
 
 <br>
 
-**Credit to these mods and their developers for the code:
+Credit to these mods and their developers for the code:
 ### :star: [TOHE](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
 
